@@ -151,6 +151,10 @@ body.dark-mode .grid-links a:hover {
 .contact-section a:hover {
   text-decoration: underline;
 }
+.contact-section {
+  margin-top: 3rem; /* Pushes the section downward */
+}
+
 body.dark-mode .contact-section i,
 body.dark-mode .contact-section a {
   color: var(--accent-dark);
